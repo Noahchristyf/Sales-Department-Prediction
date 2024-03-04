@@ -24,8 +24,4 @@ This project aims to predict sales trends using data from the sales department. 
 ## Contributing
 Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-Include a license here, typically MIT or another open-source license if you wish to share your work.
 
-## Contact
-Provide your contact information or a way for users to submit issues or questions regarding your project.
